@@ -1,5 +1,21 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/dieter-t/universe
 	shallow = true
 	branch = HEAD
+[submodule "goodpress"]
+	path = goodpress
+	url = https://github.com/maelle/goodpress
+	shallow = true
+	registered = true
+[submodule "cransays"]
+	path = cransays
+	url = https://github.com/lockedata/cransays
+	shallow = true
+	registered = true
+[submodule "rodev"]
+	path = rodev
+	url = https://github.com/ropenscilabs/rodev
+	shallow = true
+	branch = master
+	registered = true
